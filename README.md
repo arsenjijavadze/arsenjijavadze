@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Arsen, software developer. You can contact me via: 
+- Linkedin - [Arsen Jijavadze](https://www.linkedin.com/in/arsen-jijavadze/)
+- Gmail - arsen.jijavadze@gmail.com
