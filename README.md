@@ -19,6 +19,5 @@ I'm Arsen, software developer. You can contact me via:
 - Gmail - arsen.jijavadze@gmail.com
 
 #### CodewarsBadge
-My Codewars Badge:
 
 ![image](https://www.codewars.com/users/arsenjijavadze/badges/large)
