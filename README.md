@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **arsenjijavadze/arsenjijavadze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 I'm Arsen, software developer. You can contact me via: 
 - Linkedin - [Arsen Jijavadze](https://www.linkedin.com/in/arsen-jijavadze/)
 - Gmail - arsen.jijavadze@gmail.com
+
+#### CodewarsBadge
+My Codewars Badge:
+
+![image](https://www.codewars.com/users/arsenjijavadze/badges/large)
