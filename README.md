@@ -21,3 +21,11 @@ I'm Arsen, software developer. You can contact me via:
 #### CodewarsBadge
 
 ![image](https://www.codewars.com/users/arsenjijavadze/badges/large)
+
+##### Projects
+<details>
+<summary>Very simple color palette generator</summary>
+<br/>
+  
+<img src="./assets/jscolors.gif" width="400" />
+</details>
