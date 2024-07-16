@@ -22,20 +22,12 @@ I'm Arsen, software developer. You can contact me via:
 
 ![image](https://www.codewars.com/users/arsenjijavadze/badges/large)
 
-#### Projects
-<details>
-<summary>Very simple color palette generator</summary>
-<br/>
-  
-<img src="./assets/jscolors.gif" width="400" />
+#### Projects and Blog
 
-##### Links 
-- Live Site URL: [Live](https://arsenjijavadze.github.io/js-colors/)
-- Frontend URL: [GitHub Code](https://github.com/arsenjijavadze/js-colors)
+Welcome to my personal page where I showcase my projects, share code, and sometimes even my thoughts on various technologies. My website is a growing platform where you can find my latest work, tutorials, and articles.
 
-#### Built with
-- HTML
-- CSS
-- JavaScript
+Feel free to explore and reach out if you have any questions or collaboration ideas.
 
-</details>
+- **Personal Website** - [Arsen Codes](https://arsenjijavadze.github.io/arsencodes/)
+
+Thank you for visiting!
