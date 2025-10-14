@@ -24,10 +24,10 @@ I'm Arsen, software developer. You can contact me via:
 
 #### Projects and Blog
 
-Welcome to my personal page where I showcase my projects, share code, and sometimes even my thoughts on various technologies. My website is a growing platform where you can find my latest work, tutorials, and articles.
+Welcome to my personal page where I showcase my projects, share code, and sometimes even my thoughts on various technologies. 
 
 Feel free to explore and reach out if you have any questions or collaboration ideas.
 
-- **Personal Website** - [Arsen Codes](https://arsenjijavadze.github.io/arsencodes/)
+- **Personal Website** - [Arsen Codes](https://arsenjijavadze.github.io/)
 
 Thank you for visiting!
