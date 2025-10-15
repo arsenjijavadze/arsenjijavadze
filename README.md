@@ -28,6 +28,6 @@ Welcome to my personal page where I showcase my projects, share code, and someti
 
 Feel free to explore and reach out if you have any questions or collaboration ideas.
 
-- **Personal Website** - [Arsen Codes](https://arsenjijavadze.github.io/)
+- **Personal Website** - [ArsenTech](https://arsenjijavadze.github.io/)
 
 Thank you for visiting!
