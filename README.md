@@ -24,7 +24,7 @@ I'm Arsen, software developer. You can contact me via:
 
 #### Projects and Blog
 
-Welcome to my personal page where I showcase my projects, share code, and sometimes even my thoughts on various technologies. 
+Welcome to my personal page. 
 
 Feel free to explore and reach out if you have any questions or collaboration ideas.
 
